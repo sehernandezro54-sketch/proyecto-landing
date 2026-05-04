@@ -1,0 +1,18 @@
+<!DOCTYPE html> <!--Abrir un documento web-->
+<html lang="en"><!--Establece el idioma-->
+<head><!--Abrir encabezado-->
+    <meta charset="UTF-8"> <!--//Define codificación de caracteres especiales y emojis-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"><!--Adapata la página a cualquier dispositivo-->
+    <title>Document</title><!--Titulo de la página-->
+</head><!--Cerrar encabezado-->
+<body><!--Cuerpo de la página-->
+    <marquee behavior="" direction=""><h1> MODALIDAD DE PROGRAMACIÓN</h1></marquee><!--Movimiento de marquesina-->
+    <h1>Modalidad de Programación y Diseño web</h1><!--Comentario-->
+    <h2>Sección 1006</h2><!--Comentario-->
+    <h3>Jornada Mañana</h3><!--Comentario-->
+    <h4>INEM Francisco de Paula Santander</h4><!--Comentario-->
+    <h5>Unidad Azul</h5><!--Comentario-->
+    <h6>Maqueteado en HTML</h6><!--Comentario-->
+    
+</body>
+</html>
