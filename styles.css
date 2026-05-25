@@ -1,12 +1,12 @@
-#banner{
-    background-image: url(./img/banner.jfif);
+#banner {
+    background-image: url("./img/coding.jfif"); 
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
     height: 500px;
 }
 
-#section1{
+#section1 {
     margin-top: 20px;
     margin-bottom: 20px;
     display: flex;
@@ -14,28 +14,31 @@
     gap: 10px;
 }
 
-#card1{
+#card1 {
     width: 30%;
     height: 400px;
-    background-image: url(./img/robot\ mortal\ correa.jfif);
+    background-image: url(./img/imagen\ mortal\ html.png);  
     background-size: cover;
     background-repeat: no-repeat;
 }
-#card2{
+
+#card2 {
     width: 30%;
     height: 400px;
-    background-image: url(./img/codigo\ no\ binario.png);
+    background-image: url("./img/robot\ mortal\ franchesco\ correa.jfif"); 
     background-size: cover;
     background-repeat: no-repeat;
 }
-#card3{
+
+#card3 {
     width: 30%;
     height: 400px;
-    background-image: url(./img/imagen\ mortal\ de\ html.png);
+    background-image: url("./img/codigo\ binario.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
-footer{
+
+footer {
     background-color: #242323;
     margin-top: 40px;
     width: 100%;
